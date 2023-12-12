@@ -24,4 +24,14 @@ El propósito de esta aplicación es utilizar el apartado o medio de canvas así
 
 El funcionamiento de los bloques es el siguiente al inicio al inicializar con La variable se inicia el canva con la imagen al presionarle un color de los 8 seleccionados puedes pintar y ajustar al grosor con el deslizador los formatos que admite son PNG y jpge
 
-.
+## LINK DE GALERIA
+<a href="https://gallery.appinventor.mit.edu/?galleryid=8f33c8fd-4dd4-4642-81fb-2e0b2ffe2b9b" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  GALERÍA
+</a>
+
+## link de APK
+<a href="https://drive.google.com/file/d/1Ftb9bevaDYGW0sLk3HmMmJtLb8gel4__/view?usp=sharing" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: 2px solid #555; border-radius: 5px; background-color: #007bff; color: #fff; font-size: 16px;" rel="noopener">
+  APK
+</a>
+
+</center>
